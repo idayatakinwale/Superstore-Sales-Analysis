@@ -54,6 +54,8 @@ A perfect star-schema model was automatically generated, with the required relat
 
 The data model is brought to life through a series of interactive dashboards and reports that provide actionable insights and facilitate data-driven decision-making.
 
+![](Superstore_Dashboard.png)
+
 **Detailed Dashboard Features**
 
 **Performance Metrics**: Tracks metrics such as Total Sales, Total Quantity Ordered, Total Profit and Average Delivery Days.
