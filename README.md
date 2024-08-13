@@ -1,8 +1,11 @@
 # Superstore Sales Analysis
 
-This is a powerbi project involving analysis of sales data from a fictional superstore to uncover insights and trends that can help to improve business decisions. The analysis covers various aspects of sales performance, customer demographics, product categories and geographical distribution. 
+![](Superstore_Image.png)
 
-![](Superstore_Dashboard.png)
+### Introduction
+---
+
+This is a powerbi project involving analysis of sales data from a fictional superstore to uncover insights and trends that can help to improve business decisions. The analysis covers various aspects of sales performance, customer demographics, product categories and geographical distribution. 
 
 ### Objective
 ---
