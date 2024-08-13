@@ -2,6 +2,7 @@
 
 This is a powerbi project involving analysis of sales data from a fictional superstore to uncover insights and trends that can help to improve business decisions. The analysis covers various aspects of sales performance, customer demographics, product categories and geographical distribution. 
 
+![](Superstore_Dashboard.png)
 
 ### Objective
 ---
@@ -46,7 +47,7 @@ The dataset is clean to a good extent, so few cleaning steps were carried out us
 
 A perfect star-schema model was automatically generated, with the required relationship. There are 4-dimension tables and one fact table. The dimension tables are all joined to the fact table with a **one-to-many** relationship.
 
-
+![](Superstore_Model.png)
 
 ### Data Analysis & Visualization
 ---
